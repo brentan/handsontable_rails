@@ -5,7 +5,7 @@ require "handsontable_rails5/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "handsontable_rails5"
-  spec.version       = HandsontableRails::VERSION
+  spec.version       = HandsontableRails5::VERSION
   spec.authors       = ["Brentan Alexander Consulting LLC"]
   spec.email         = ["me@brentanalexander.com"]
 
